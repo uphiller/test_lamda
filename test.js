@@ -1,4 +1,5 @@
-exports.handler = function(event, context) {  
-  console.log('deploy_test');
+var jwt = require('jsonwebtoken');
+exports.handler = function(event, context) {
+  callback(null, {"statusCode": 200, "body": "ok!!"});
 }
 
