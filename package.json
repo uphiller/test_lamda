@@ -1,0 +1,22 @@
+{
+  "name": "test_lamda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uphiller/test_lamda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uphiller/test_lamda/issues"
+  },
+  "homepage": "https://github.com/uphiller/test_lamda#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.2.0"
+  }
+}
