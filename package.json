@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/uphiller/test_lamda#readme",
   "dependencies": {
-    "jsonwebtoken": "^8.2.0"
+    "jsonwebtoken": "^8.2.0",
+    "mysql": "^2.15.0"
   }
 }
